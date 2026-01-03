@@ -1,0 +1,4 @@
+flask
+pdfplumber
+transformers
+torch
