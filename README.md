@@ -110,7 +110,7 @@ CSV report generated automatically in outputs/
 
 - Candidate name
 - Email
-- kills found
+- Skills found
 - Match percentage
 - Status
 - Recommended roles
