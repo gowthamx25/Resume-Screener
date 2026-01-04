@@ -122,6 +122,9 @@ CSV report generated automatically in outputs/
 - Entry-level hiring automation
 
 ### 🧑‍💻 Author
+
 Gowtham S
+
 AI & Data Science | Applied ML & MLOps
+
 GitHub: https://github.com/gowthamx25
